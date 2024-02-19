@@ -1,0 +1,13 @@
+print ("1.")
+num1=int(input("Enter your first number:"))
+print ("2.")
+num2=int(input("Enter your second number:"))
+operation=(input("operation:"))
+if operation = addition
+print ("Sum is:",num1+num2)
+if operation = substraction
+print ("difference is:",num1-num2)
+if operation = multiplication
+print ("Product is:",num1*num2)
+if operation = division
+print ("Quotient is:",num1/num2)
